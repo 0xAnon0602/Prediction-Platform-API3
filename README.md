@@ -26,6 +26,8 @@ yarn start
 ### Documentation 
 https://various-nautilus-d6c.notion.site/Prediction-Platform-using-BYOG-of-API3-951ecadf8b23474babb80b31d4dcdd15
 
+## Wallet 
+0xBE4ca24f9c2cEF343e00F50CB99cD0539104BCeD
 
 ### Help
 
